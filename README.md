@@ -10,11 +10,13 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anurag-KitBag/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anurag-KitBag/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurag-KitBag/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anurag-KitBag/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Anurag-KitBag/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
