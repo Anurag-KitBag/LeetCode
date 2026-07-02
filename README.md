@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurag-KitBag/LeetCode/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-KitBag/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anurag-KitBag/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anurag-KitBag/LeetCode/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-KitBag/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Anurag-KitBag/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -37,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-KitBag/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anurag-KitBag/LeetCode/tree/master/0283-move-zeroes) |
 ## Simulation
