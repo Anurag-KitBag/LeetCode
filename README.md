@@ -20,6 +20,7 @@
 | [0724-find-pivot-index](https://github.com/Anurag-KitBag/LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anurag-KitBag/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,5 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anurag-KitBag/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Anurag-KitBag/LeetCode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
