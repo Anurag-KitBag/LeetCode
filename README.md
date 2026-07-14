@@ -25,6 +25,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Anurag-KitBag/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
