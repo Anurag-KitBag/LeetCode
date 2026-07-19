@@ -30,6 +30,7 @@
 | [1929-concatenation-of-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Anurag-KitBag/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anurag-KitBag/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,10 +57,12 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anurag-KitBag/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anurag-KitBag/LeetCode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anurag-KitBag/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Anurag-KitBag/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Anurag-KitBag/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
